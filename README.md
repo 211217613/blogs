@@ -8,3 +8,5 @@ Challenges: http://cryptopals.com/
 
 Tech: http://robertheaton.com/
 http://duartes.org/gustavo/blog/
+Python:
+http://raymondtaught.me/
