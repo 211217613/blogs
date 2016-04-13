@@ -19,3 +19,12 @@ https://www.groovehq.com/blog/what-to-do-when-employees-quit#disqus_thread
 
 Python:
 http://raymondtaught.me/
+http://cryptomathblog.com/about/\n
+http://www.cryptologie.net/ 
+
+https://www.praetorian.com/blog 
+
+http://www.joelonsoftware.com/index.html 
+
+http://www.kalzumeus.com/blog/ 
+
