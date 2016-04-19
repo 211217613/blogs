@@ -7,6 +7,7 @@ Crypto/Security:
 http://blog.chain.com/
 http://blog.cryptographyengineering.com/
 http://bits-please.blogspot.com/
+https://systemoverlord.com/
 
 Challenges: http://cryptopals.com/
 
