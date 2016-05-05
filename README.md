@@ -9,6 +9,7 @@ http://blog.chain.com/
 http://blog.cryptographyengineering.com/
 http://bits-please.blogspot.com/
 https://systemoverlord.com/
+http://www.theamazingking.com/crypto-feal.php
 
 [Challenges]
 http://cryptopals.com/
