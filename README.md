@@ -23,7 +23,7 @@ https://www.groovehq.com/blog/what-to-do-when-employees-quit#disqus_thread
 http://eli.thegreenplace.net/
 
 [Python]
-https://realpython.com/blog/
+https://realpython.com/blog/\n
 http://raymondtaught.me/
 http://cryptomathblog.com/about/\n
 http://www.cryptologie.net/ 
@@ -31,3 +31,4 @@ https://www.praetorian.com/blog
 http://www.joelonsoftware.com/index.html 
 http://www.kalzumeus.com/blog/ 
 http://phasenoise.livejournal.com/
+http://www.simeonfranklin.com/blog/
