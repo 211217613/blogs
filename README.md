@@ -13,6 +13,11 @@ http://www.theamazingking.com/crypto-feal.php
 
 [Challenges]
 http://cryptopals.com/
+https://www.stockfighter.io/#jailbreak
+https://www.starfighters.io/
+https://microcorruption.com/login
+https://www.hackerrank.com/domains?h_r=logo
+
 
 [Tech]
 https://blogs.nvidia.com/
