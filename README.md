@@ -20,6 +20,7 @@ https://www.hackerrank.com/domains?h_r=logo
 
 
 [Tech]
+http://brennan.io/blog/
 https://blogs.nvidia.com/
 http://robertheaton.com/
 http://blog.codinghorror.com/
@@ -37,3 +38,5 @@ http://www.joelonsoftware.com/index.html
 http://www.kalzumeus.com/blog/ 
 http://phasenoise.livejournal.com/
 http://www.simeonfranklin.com/blog/
+http://www.simononsoftware.com/virtualenv-tutorial-part-2/
+https://realpython.com/blog/python/python-virtual-environments-a-primer/
