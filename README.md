@@ -10,6 +10,7 @@ http://blog.cryptographyengineering.com/
 http://bits-please.blogspot.com/
 https://systemoverlord.com/
 http://www.theamazingking.com/crypto-feal.php
+http://blog.quarkslab.com/category/cryptography.html
 
 [Challenges]
 http://cryptopals.com/
