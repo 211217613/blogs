@@ -30,15 +30,16 @@ https://www.groovehq.com/blog/what-to-do-when-employees-quit#disqus_thread
 http://eli.thegreenplace.net/
 
 [Python]
+https://www.toptal.com/
+http://pbpython.com/
+https://pythonprogramming.net/
 https://realpython.com/blog/\n
-http://raymondtaught.me/
 http://cryptomathblog.com/about/\n
-http://www.cryptologie.net/ 
-https://www.praetorian.com/blog 
-http://www.joelonsoftware.com/index.html 
-http://www.kalzumeus.com/blog/ 
+http://www.cryptologie.net/
+https://www.praetorian.com/blog
+http://www.joelonsoftware.com/index.html
+http://www.kalzumeus.com/blog/
 http://phasenoise.livejournal.com/
 http://www.simeonfranklin.com/blog/
 http://www.simononsoftware.com/virtualenv-tutorial-part-2/
 https://realpython.com/blog/python/python-virtual-environments-a-primer/
-https://addyosmani.com/blog/custom-sublime-text-build-systems-for-popular-tools-and-languages/
