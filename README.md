@@ -1,23 +1,24 @@
 # blogs
 List of blogs
 
-[Android]
+##[Android]
 http://nelenkov.blogspot.mx/?view=snapshot
 
-[Crypto/Security]
+##[Crypto/Security]
 http://blog.chain.com/
 http://blog.cryptographyengineering.com/
 http://bits-please.blogspot.com/
 https://systemoverlord.com/
 http://www.theamazingking.com/crypto-feal.php
 http://blog.quarkslab.com/category/cryptography.html
+https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/
 
-[Challenges]
-http://cryptopals.com/
-https://www.stockfighter.io/#jailbreak
-https://www.starfighters.io/
-https://microcorruption.com/login
-https://www.hackerrank.com/domains?h_r=logo
+##[Challenges]
+- http://cryptopals.com/
+- https://www.stockfighter.io/#jailbreak
+- https://www.starfighters.io/
+- https://microcorruption.com/login
+- https://www.hackerrank.com/domains?h_r=logo
 
 
 [Tech]
