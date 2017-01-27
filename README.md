@@ -12,6 +12,7 @@ List of blogs
 - http://www.theamazingking.com/crypto-feal.php
 - http://blog.quarkslab.com/category/cryptography.html
 - https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/
+- https://cranklin.wordpress.com/2016/08/09/testing-the-right-way/
 
 ## [Challenges]
 - http://cryptopals.com/
